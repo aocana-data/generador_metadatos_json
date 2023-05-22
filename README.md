@@ -1,5 +1,0 @@
-GENERADOR DE METADATOS
----
-
-
-
